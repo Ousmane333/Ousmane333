@@ -1,16 +1,14 @@
-## Hi there 👋
+ ## Hi there 👋
 
-<!--
-**Ousmane333/Ousmane333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ousmane a CS and Network student based in Senegal at ESP
 
-Here are some ideas to get you started:
+Right now I'm deep into a self-learning roadmap: Python/AI → Cybersecurity → Networking/IoT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My toolkit: Windows/VS Code as my daily driver, Cisco and Huawei for networking, and Python , C, HTML and css for coding. I also tinker with Roblox Studio to build games.
+
+Fun Facts:
+I play basketball 🏀
+I build some little app with Google AI studio and Opal for fun
+I try to create build my own eco-sytem with all Google AI
+I've put together companion tools to run Loup-Garou (Werewolf) game nights
+I work about 99% in French, even though this README is in English 😄
