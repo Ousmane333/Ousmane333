@@ -1,24 +1,152 @@
-<h1 align="center">Hi everyone😉 I'm  Mouhamadoul Ousmane Faye</h1>
-<h3 align="center">CS and Network student</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/hmDMrE1yMAkAAAAM/when-the-coding-when-the.gif">
+<div align="center">
 
+<!-- En-tête animé : dégradé bleu foncé → turquoise → cyan -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:031A24,45:0E5A6B,100:0891B2&height=250&section=header&text=Mouhamadoul%20Ousmane%20Faye&fontSize=42&fontColor=E6FBFF&fontAlignY=36&desc=R%C3%A9seaux%20%E2%80%A2%20IoT%20%E2%80%A2%20Cybers%C3%A9curit%C3%A9%20%E2%80%A2%20IA&descSize=18&descAlignY=58&animation=twinkling" width="100%" alt="header"/>
 
-- 🔭 I’m currently working on **Connexion Page**
+<!-- Citations qui s'écrivent -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=22D3EE&center=true&vCenter=true&width=900&height=60&lines=%C2%AB+Ne+te+concentre+pas+sur+la+ligne+d%27arriv%C3%A9e%2C;mais+concentre-toi+sur+le+chemin+que+tu+dois+prendre.+%C2%BB;%C2%AB+La+discipline+bat+le+talent+quand+le+talent+ne+travaille+pas.+%C2%BB;%C2%AB+Chaque+ligne+de+code+est+un+pas+vers+qui+je+veux+devenir.+%C2%BB;%C2%AB+Construire+aujourd%27hui+les+r%C3%A9seaux+de+demain.+%C2%BB" alt="Citations animées"/>
+</a>
 
-- 🌱 I’m currently learning **JavaScript Python  Java Cisco**
+<br/>
 
-- 📫 How to reach me **billionairemulti9@gmail.com**
+<img src="https://img.shields.io/badge/DUT-T%C3%A9l%C3%A9coms%20%26%20R%C3%A9seaux-0B3C49?style=for-the-badge&logo=cisco&logoColor=22D3EE" alt="DUT"/>
+<img src="https://img.shields.io/badge/ESP%20%2F%20UCAD-Dakar%2C%20S%C3%A9n%C3%A9gal-0E7490?style=for-the-badge" alt="ESP"/>
+<img src="https://komarev.com/ghpvc/?username=ousmane333&label=Visites&color=0891B2&style=for-the-badge" alt="Compteur de visites"/>
 
-- ⚡ Fun fact **Right now I'm deep into a self-learning roadmap: Python/AI → Cybersecurity → Networking/IoT My toolkit: Windows/VS Code as my daily driver, Cisco and Huawei for networking, and Python , C, HTML and css for coding. I also tinker with Roblox Studio to build games. Fun Facts: I play basketball 🏀 I build some little app with Google AI studio and Opal for fun I try to create build my own eco-sytem with all Google AI I've put together companion tools to run Loup-Garou (Werewolf) game nights I work about 99% in French, even though this README is in English 😄**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mouhamadoul-ousmane-faye-07a96239a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mouhamadoul-ousmane-faye-07a96239a" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 👋 À propos de moi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" alt="wave"/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ousmane333&show_icons=true&locale=en&layout=compact" alt="ousmane333" /></p>
+Étudiant en **DUT Télécommunications & Réseaux** à l'**École Supérieure Polytechnique (ESP/UCAD)** de Dakar, je me forme aux réseaux, à l'IoT, à la cybersécurité et à l'intelligence artificielle. J'aime construire des choses concrètes et apprendre en pratiquant.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ousmane333&" alt="ousmane333" /></p>
+- 🔭 **En ce moment** : je construis ma **page de connexion** (Connexion Page)
+- 🌱 **J'apprends** : Python, JavaScript, Java, C, Cisco
+- 🧭 **Feuille de route** : `Python / IA` → `Cybersécurité` → `Réseaux / IoT`
+- 🤝 **Engagements** : ISOC Club · RoboTech Club · Comité d'organisation de l'ESP
+- 🗣️ **Langues** : Français (principal) · Anglais
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=14B8A6&center=true&vCenter=true&width=700&height=40&lines=%3E+ping+futur+...+reply+from+succ%C3%A8s;%3E+while+(vivant)+%7B+apprendre()%3B+construire()%3B+%7D;%3E+sudo+apt+install+d%C3%A9termination" alt="terminal"/>
+
+</div>
+
+---
+
+## 🛠️ Stack & outils
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=600&color=22D3EE&center=true&vCenter=true&width=800&height=45&lines=Python+%E2%97%86+C+%E2%97%86+Java;JavaScript+%E2%97%86+TypeScript;HTML+%E2%97%86+CSS;Linux+%E2%97%86+Git+%E2%97%86+VS+Code;Cisco+%E2%97%86+Huawei;Roblox+Studio+%E2%97%86+Google+AI+Studio" alt="Technologies"/>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,c,java,js,ts,html,css,linux,git,vscode&theme=dark" alt="Skills"/>
+
+</div>
+
+---
+
+## 🗺️ Feuille de route
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#0B3C49','primaryTextColor':'#E6FBFF','primaryBorderColor':'#22D3EE','lineColor':'#22D3EE','secondaryColor':'#0E7490','tertiaryColor':'#031A24'}}}%%
+flowchart LR
+    A["🐍 Python & IA"] --> B["🔐 Cybersécurité"] --> C["🌐 Réseaux & IoT"] --> D["🚀 Projets & au-delà"]
+```
+
+---
+
+## 🎮 Projets & expérimentations
+
+| Projet | Description | Technologies |
+| :-- | :-- | :-- |
+| 🔑 **Connexion Page** | Page de connexion en cours de développement | HTML · CSS · JavaScript |
+| 🧱 **Jeux Roblox** | Création de jeux et d'outils avec Roblox Studio | Luau · Roblox Studio |
+| 🤖 **Écosystème Google AI** | Petites applications avec Google AI Studio et Opal | IA générative |
+| 🌐 **Labs réseaux** | Simulations et configurations Cisco & Huawei | Cisco · Huawei |
+
+---
+
+## 💬 Philosophie & état d'esprit
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=800&height=60&lines=Parle+peu.+Construis+beaucoup.;Apprendre+%E2%86%92+Pratiquer+%E2%86%92+Partager." alt="Devise"/>
+
+</div>
+
+> 🧭 *« Ne te concentre pas sur la ligne d'arrivée, mais concentre-toi sur le chemin que tu dois prendre. »* — **Ma devise**
+>
+> 👣 *« Le voyage de mille lieues commence par un seul pas. »* — **Lao Tseu**
+>
+> 💻 *« Talk is cheap. Show me the code. »* — **Linus Torvalds**
+>
+> ⚡ *« Simplicity is prerequisite for reliability. »* — **Edsger W. Dijkstra**
+>
+> 🚀 *« Make it work, make it right, make it fast. »* — **Kent Beck**
+
+<p align="center"><i>« Construire des réseaux fiables, pensés pour évoluer. »</i></p>
+
+---
+
+## 📊 Statistiques GitHub & Performance
+
+<div align="center">
+
+<!-- Carte de synthèse complète (générée par GitHub Actions : voir .github/workflows/metrics.yml) -->
+<img src="https://raw.githubusercontent.com/ousmane333/ousmane333/main/github-metrics.svg" width="100%" alt="Métriques GitHub"/>
+
+<br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ousmane333&show_icons=true&bg_color=04202B&title_color=22D3EE&text_color=CDEFF5&icon_color=14B8A6&border_color=0E7490&locale=fr" alt="Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ousmane333&layout=compact&bg_color=04202B&title_color=22D3EE&text_color=CDEFF5&border_color=0E7490&locale=fr" alt="Langages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=ousmane333&background=04202B&ring=22D3EE&fire=14B8A6&currStreakLabel=22D3EE&sideLabels=CDEFF5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7DD3E0&stroke=0E7490&border=0E7490" alt="Streak"/>
+
+</div>
+
+### 🐍 Activité de contributions
+
+<div align="center">
+
+<!-- Serpent animé qui mange les contributions (généré par .github/workflows/snake.yml) -->
+<img src="https://raw.githubusercontent.com/ousmane333/ousmane333/output/github-snake-dark.svg" width="100%" alt="Serpent des contributions"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ousmane333&bg_color=04202B&color=22D3EE&line=14B8A6&point=FFFFFF&area=true&area_color=0E7490&hide_border=true" width="100%" alt="Activité"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ousmane333&theme=onedark&no-frame=true&row=1&column=6" alt="Trophées"/>
+
+</div>
+
+---
+
+## 🏀 En dehors du code
+
+Basketball, curiosité pour tout ce qui touche à la tech, et envie de créer de petits outils avec les IA de Google.
+
+---
+
+## 📫 Me contacter
+
+<div align="center">
+
+<a href="https://linkedin.com/in/mouhamadoul-ousmane-faye-07a96239a"><img src="https://img.shields.io/badge/LinkedIn-0B3C49?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"/></a>
+<a href="mailto:billionairemulti9@gmail.com"><img src="https://img.shields.io/badge/Email-0B3C49?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email"/></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&height=40&lines=Merci+de+votre+visite+%F0%9F%92%99;Construisons+quelque+chose+ensemble+%21" alt="footer"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,55:0E5A6B,100:031A24&height=120&section=footer&animation=twinkling" width="100%" alt="footer"/>
+
+</div>
