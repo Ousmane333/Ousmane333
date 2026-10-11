@@ -22,11 +22,11 @@
 
 Étudiant en **DUT Télécommunications & Réseaux** à l'**École Supérieure Polytechnique (ESP/UCAD)** de Dakar, je me forme aux réseaux, à l'IoT, à la cybersécurité et à l'intelligence artificielle. J'aime construire des choses concrètes et apprendre en pratiquant.
 
-- 🔭 **En ce moment** : Build my Saas😶‍🌫️🥸🥸
+- 🔭 **En ce moment** : Building a Saas???
 - 🌱 **J'apprends** : Python, JavaScript, Java, C, Cisco
 - 🧭 **Feuille de route** : `Python / IA` → `Cybersécurité` → `Réseaux / IoT`
 - 🤝 **Engagements** : ISOC Club · RoboTech Club · Comité d'organisation de l'ESP
-- 🥋 **Sports** : Basketball · Judo
+- 🥋 **Sports** : Basketball · Judo · Calisthénie
 - 🗣️ **Langues** : Français (principal) · Anglais
 
 <div align="center">
@@ -99,8 +99,6 @@ flowchart LR
 <!-- Serpent animé qui mange les contributions (généré par .github/workflows/snake.yml) -->
 <img src="https://raw.githubusercontent.com/ousmane333/ousmane333/output/github-snake-dark.svg" width="100%" alt="Serpent des contributions"/>
 
-<br/>
-
 
 </div>
 
@@ -108,7 +106,7 @@ flowchart LR
 
 ## 🏀 En dehors du code
 
-Basketball et judo, curiosité pour tout ce qui touche à la tech, et envie de créer de petits outils avec les IA de Google. Le sport m'apprend la discipline, le respect et la persévérance : tomber sept fois, se relever huit.
+Basketball, judo et calisthénie, curiosité pour tout ce qui touche à la tech, et envie de créer de petits outils avec les IA de Google. Le sport m'apprend la discipline, le respect et la persévérance : tomber sept fois, se relever huit.
 
 <div align="center">
 
@@ -119,6 +117,11 @@ Basketball et judo, curiosité pour tout ce qui touche à la tech, et envie de c
 
 <!-- Mini animation : prise, projection, ippon (fichier assets/judo.svg) -->
 <img src="assets/judo.svg" width="100%" alt="Animation de judo"/>
+
+<br/><br/>
+
+<!-- Mini animation : pompes, tractions, dips (fichier assets/calisthenics.svg) -->
+<img src="assets/calisthenics.svg" width="100%" alt="Animation de calisthénie : pompes, tractions et dips"/>
 
 </div>
 
