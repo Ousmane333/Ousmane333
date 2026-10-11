@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- En-tête animé : dégradé bleu foncé → turquoise → cyan -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:031A24,45:0E5A6B,100:0891B2&height=250&section=header&text=Mouhamadoul%20Ousmane%20Faye&fontSize=42&fontColor=E6FBFF&fontAlignY=36&desc=R%C3%A9seaux%20%E2%80%A2%20IoT%20%E2%80%A2%20Cybers%C3%A9curit%C3%A9%20%E2%80%A2%20IA&descSize=18&descAlignY=58&animation=twinkling" width="100%" alt="header"/>
+
 
 <!-- Citations qui s'écrivent -->
 <a href="https://git.io/typing-svg">
@@ -20,7 +20,7 @@
 
 ## 👋 À propos de moi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" alt="wave"/>
 
-Étudiant en **DUT Télécommunications & Réseaux** à l'**École Supérieure Polytechnique (ESP/UCAD)** de Dakar, je me forme aux réseaux, à l'IoT, à la cybersécurité et à l'intelligence artificielle. J'aime construire des choses concrètes et apprendre en pratiquant.
+Étudiant en **DUT Télécommunications & Réseaux** à l'**École Supérieure Polytechnique (ESP/UCAD)** de Dakar, je me forme aux réseaux télécom, j'aime l'IoT, à la cybersécurité et l'intelligence artificielle. J'aime construire des choses concrètes et apprendre en pratiquant.
 
 - 🔭 **En ce moment** : Building a Saas???
 - 🌱 **J'apprends** : Python, JavaScript, Java, C, Cisco
