@@ -12,6 +12,7 @@
 
 <img src="https://img.shields.io/badge/DUT-T%C3%A9l%C3%A9coms%20%26%20R%C3%A9seaux-0B3C49?style=for-the-badge&logo=cisco&logoColor=22D3EE" alt="DUT"/>
 <img src="https://img.shields.io/badge/ESP%20%2F%20UCAD-Dakar%2C%20S%C3%A9n%C3%A9gal-0E7490?style=for-the-badge" alt="ESP"/>
+<img src="https://komarev.com/ghpvc/?username=ousmane333&label=Visites&color=0891B2&style=for-the-badge" alt="Compteur de visites"/>
 
 </div>
 
@@ -21,10 +22,11 @@
 
 Étudiant en **DUT Télécommunications & Réseaux** à l'**École Supérieure Polytechnique (ESP/UCAD)** de Dakar, je me forme aux réseaux, à l'IoT, à la cybersécurité et à l'intelligence artificielle. J'aime construire des choses concrètes et apprendre en pratiquant.
 
-- 🔭 **En ce moment** : Je crée un Saas 😶‍🌫️🥸🥸🥸
+- 🔭 **En ce moment** : Build my Saas😶‍🌫️🥸🥸
 - 🌱 **J'apprends** : Python, JavaScript, Java, C, Cisco
 - 🧭 **Feuille de route** : `Python / IA` → `Cybersécurité` → `Réseaux / IoT`
 - 🤝 **Engagements** : ISOC Club · RoboTech Club · Comité d'organisation de l'ESP
+- 🥋 **Sports** : Basketball · Judo
 - 🗣️ **Langues** : Français (principal) · Anglais
 
 <div align="center">
@@ -70,6 +72,25 @@ flowchart LR
 
 ---
 
+## 💬 Philosophie & état d'esprit
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=800&height=60&lines=Parle+peu.+Construis+beaucoup.;Apprendre+%E2%86%92+Pratiquer+%E2%86%92+Partager." alt="Devise"/>
+
+</div>
+
+> 🧭 *« Ne te concentre pas sur la ligne d'arrivée, mais concentre-toi sur le chemin que tu dois prendre. »* — **Ma devise**
+>
+> 👣 *« Le voyage de mille lieues commence par un seul pas. »* — **Lao Tseu**
+>
+> 💻 *« Talk is cheap. Show me the code. »* — **Linus Torvalds**
+>
+> ⚡ *« Simplicity is prerequisite for reliability. »* — **Edsger W. Dijkstra**
+>
+> 🚀 *« Make it work, make it right, make it fast. »* — **Kent Beck**
+
+<p align="center"><i>« Construire des réseaux fiables, pensés pour évoluer. »</i></p>
 
 ---
 
@@ -100,12 +121,31 @@ flowchart LR
 
 <br/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ousmane333&bg_color=04202B&color=22D3EE&line=14B8A6&point=FFFFFF&area=true&area_color=0E7490&hide_border=true" width="100%" alt="Activité"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ousmane333&theme=onedark&no-frame=true&row=1&column=6" alt="Trophées"/>
+
+</div>
 
 ---
 
 ## 🏀 En dehors du code
 
-Basketball, curiosité pour tout ce qui touche à la tech, et envie de créer de petits outils avec les IA de Google.
+Basketball et judo, curiosité pour tout ce qui touche à la tech, et envie de créer de petits outils avec les IA de Google. Le sport m'apprend la discipline, le respect et la persévérance : tomber sept fois, se relever huit.
+
+<div align="center">
+
+<!-- Mini animation : tir, panier, rebond (fichier assets/basketball.svg) -->
+<img src="assets/basketball.svg" width="100%" alt="Animation de basketball"/>
+
+<br/><br/>
+
+<!-- Mini animation : prise, projection, ippon (fichier assets/judo.svg) -->
+<img src="assets/judo.svg" width="100%" alt="Animation de judo"/>
+
+</div>
 
 ---
 
