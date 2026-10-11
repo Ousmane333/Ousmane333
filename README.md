@@ -83,7 +83,7 @@ flowchart LR
 
 <br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ousmane333&show_icons=true&bg_color=04202B&title_color=22D3EE&text_color=CDEFF5&icon_color=14B8A6&border_color=0E7490&locale=fr" alt="Stats"/>
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ousmane333&layout=compact&bg_color=04202B&title_color=22D3EE&text_color=CDEFF5&border_color=0E7490&locale=fr" alt="Langages"/>
 
 <br/>
