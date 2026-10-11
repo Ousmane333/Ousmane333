@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="100%" role="img" aria-label="Animation de basketball : un ballon qui marque un panier">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#031A24"/>
+      <stop offset="55%" stop-color="#0B3C49"/>
+      <stop offset="100%" stop-color="#0E5A6B"/>
+    </linearGradient>
+    <radialGradient id="ball" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#FDBA74"/>
+      <stop offset="60%" stop-color="#F97316"/>
+      <stop offset="100%" stop-color="#C2410C"/>
+    </radialGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="240" rx="14" fill="url(#bg)"/>
+
+  <!-- étoiles qui scintillent -->
+  <g fill="#A5F3FC">
+    <circle cx="60" cy="40" r="1.6"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="180" cy="70" r="1.3"><animate attributeName="opacity" values="1;0.2;1" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="330" cy="30" r="1.5"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.6s" repeatCount="indefinite"/></circle>
+    <circle cx="520" cy="55" r="1.2"><animate attributeName="opacity" values="1;0.2;1" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="820" cy="35" r="1.6"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.2s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- terrain -->
+  <g fill="none" stroke="#22D3EE" stroke-opacity="0.35" stroke-width="2">
+    <path d="M40 210 H860"/>
+    <path d="M560 210 A130 130 0 0 1 760 210" stroke-opacity="0.2"/>
+  </g>
+  <rect x="40" y="210" width="820" height="30" fill="#04202B" opacity="0.6"/>
+
+  <!-- panneau, poteau et cercle -->
+  <rect x="742" y="140" width="8" height="70" fill="#0E7490"/>
+  <rect x="736" y="52" width="10" height="92" rx="2" fill="#A5F3FC" fill-opacity="0.85" stroke="#22D3EE" stroke-width="2"/>
+  <rect x="738" y="92" width="6" height="20" fill="none" stroke="#0891B2" stroke-width="1.5"/>
+
+  <!-- ballon (trajectoire : tir en cloche, panier, rebond) -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.93;0.97;1" dur="4.5s" repeatCount="indefinite"/>
+    <animateMotion dur="4.5s" repeatCount="indefinite" path="M110 192 C 230 -10 520 -50 690 106 L690 150 L690 192 Q655 150 620 192 Q602 172 588 192"/>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="720" dur="4.5s" repeatCount="indefinite"/>
+      <circle r="18" fill="url(#ball)" stroke="#7C2D12" stroke-width="1.5"/>
+      <path d="M-18 0H18M0 -18V18" stroke="#7C2D12" stroke-width="1.5" fill="none"/>
+      <path d="M-12.7 -12.7 Q-4 0 -12.7 12.7M12.7 -12.7 Q4 0 12.7 12.7" stroke="#7C2D12" stroke-width="1.5" fill="none"/>
+    </g>
+  </g>
+
+  <!-- filet (réagit quand le ballon passe) -->
+  <g transform="translate(690 108)">
+    <animateTransform attributeName="transform" type="translate" values="690 108;690 108" dur="4.5s" repeatCount="indefinite" additive="replace"/>
+    <g>
+      <animateTransform attributeName="transform" type="scale" values="1 1;1 1;1.18 1.12;0.94 1;1 1" keyTimes="0;0.76;0.82;0.9;1" dur="4.5s" repeatCount="indefinite"/>
+      <g stroke="#E6FBFF" stroke-opacity="0.8" stroke-width="1.5" fill="none">
+        <path d="M-32 0 L-20 38M-16 0 L-10 38M0 0 V38M16 0 L10 38M32 0 L20 38"/>
+        <path d="M-27 13 L27 13M-23 26 L23 26M-20 38 L20 38"/>
+      </g>
+    </g>
+  </g>
+  <!-- cercle -->
+  <path d="M655 108 H736" stroke="#FB923C" stroke-width="5" stroke-linecap="round" filter="url(#glow)"/>
+
+  <!-- onde au moment du panier -->
+  <circle cx="690" cy="118" r="10" fill="none" stroke="#22D3EE" stroke-width="2" opacity="0">
+    <animate attributeName="r" values="10;10;10;46;46" keyTimes="0;0.76;0.78;0.9;1" dur="4.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;0.9;0;0" keyTimes="0;0.76;0.78;0.9;1" dur="4.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- texte "SWISH !" -->
+  <text x="470" y="92" text-anchor="middle" font-family="'Fira Code', Consolas, monospace" font-size="30" font-weight="700" fill="#22D3EE" opacity="0" filter="url(#glow)">
+    SWISH !
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.77;0.81;0.9;0.95;1" dur="4.5s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- légende -->
+  <text x="60" y="124" font-family="'Fira Code', Consolas, monospace" font-size="15" fill="#7DD3E0" letter-spacing="2">BASKETBALL</text>
+  <text x="60" y="148" font-family="'Fira Code', Consolas, monospace" font-size="12" fill="#22D3EE" fill-opacity="0.7">while (vivant) { shoot(); score(); }</text>
+</svg>
