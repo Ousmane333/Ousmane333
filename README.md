@@ -16,11 +16,14 @@
 
 </div>
 
+
 ---
 
 ## 👋 À propos de moi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" alt="wave"/>
 
 Étudiant en **DUT Télécommunications & Réseaux** à l'**École Supérieure Polytechnique (ESP/UCAD)** de Dakar, je me forme aux réseaux télécom, j'aime l'IoT, à la cybersécurité et l'intelligence artificielle. J'aime construire des choses concrètes et apprendre en pratiquant.
+
+<img align="right" alt="Coding" width="250" src="https://media.tenor.com/hmDMrE1yMAkAAAAM/when-the-coding-when-the.gif">
 
 - 🔭 **En ce moment** : Building a Saas???
 - 🌱 **J'apprends** : Python, JavaScript, Java, C, Cisco
@@ -28,6 +31,11 @@
 - 🤝 **Engagements** : ISOC Club · RoboTech Club · Comité d'organisation de l'ESP
 - 🥋 **Sports** : Basketball · Judo · Calisthénie
 - 🗣️ **Langues** : Français (principal) · Anglais
+
+
+
+
+
 
 <div align="center">
 
@@ -48,6 +56,7 @@
 <img src="https://skillicons.dev/icons?i=python,c,java,js,ts,html,css,linux,git,vscode&theme=dark" alt="Skills"/>
 
 </div>
+
 
 ---
 
