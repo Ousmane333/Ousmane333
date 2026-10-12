@@ -76,7 +76,7 @@ flowchart LR
 | :-- | :-- | :-- |
 | 🔑 **Connexion Page** | Page de connexion en cours de développement | HTML · CSS · JavaScript |
 | 🧱 **Jeux Roblox** | Création de jeux et d'outils avec Roblox Studio | Luau · Roblox Studio |
-| 🤖 **Écosystème Google AI** | Petites applications avec Google AI Studio et Opal | IA générative |
+| 🤖 **Écosystème Google AI** | Créer mon ecosystem avec les IA de google| IA générative |
 | 🌐 **Labs réseaux** | Simulations et configurations Cisco & Huawei | Cisco · Huawei |
 
 ---
